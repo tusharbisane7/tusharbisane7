@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Manish%20Lawhale-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.codechef.com/users/tusharbisane7" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-manish72-1f8f44?style=flat&logo=codechef" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-tusharbisane7-1f8f44?style=flat&logo=codechef" alt="CodeChef" />
   </a>
   <a href="https://www.leetcode.com/tusharbisane7" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-manishlawhale02-orange?style=flat&logo=leetcode" alt="LeetCode" />
@@ -91,5 +91,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishdl&show_icons=true&locale=en&layout=compact&theme=radical" alt="Manish's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishdl&show_icons=true&locale=en&layout=compact&theme=radical" alt="tushar's Top Languages" />
 </p>
