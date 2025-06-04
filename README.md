@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/tusharbisane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Manish%20Lawhale-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-tusharbisane7-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.codechef.com/users/tusharbisane7" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-tusharbisane7-1f8f44?style=flat&logo=codechef" alt="CodeChef" />
