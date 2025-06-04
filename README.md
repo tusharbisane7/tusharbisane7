@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/CodeChef-tusharbisane7-1f8f44?style=flat&logo=codechef" alt="CodeChef" />
   </a>
   <a href="https://www.leetcode.com/tusharbisane7" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-manishlawhale02-orange?style=flat&logo=leetcode" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-tusarbisane-orange?style=flat&logo=leetcode" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/tusharbisane7" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-manishlawhale345-green?style=flat&logo=geeksforgeeks" alt="GeeksforGeeks" />
