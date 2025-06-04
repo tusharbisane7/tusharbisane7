@@ -4,10 +4,6 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/manishdl?label=Follow%20Me&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/manishdl?style=social" alt="GitHub Stars">
-</p>
 
 ---
 
