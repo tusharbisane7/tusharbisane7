@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/LeetCode-tusarbisane-orange?style=flat&logo=leetcode" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/tusharbisane7" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-manishlawhale345-green?style=flat&logo=geeksforgeeks" alt="GeeksforGeeks" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-tusharbisane7-green?style=flat&logo=geeksforgeeks" alt="GeeksforGeeks" />
   </a>
 </p>
 
