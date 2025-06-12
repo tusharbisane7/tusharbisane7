@@ -7,8 +7,8 @@
 
 ---
 
-- 🔭 I’m currently working on [Academix](#)
-- 👨‍💻 All of my projects are available at **[Coming Soon ...](#)**
+- 🔭 I’m currently working on [#](#)
+- 👨‍💻 All of my projects are available at **[3](#)**
 - 📫 How to reach me: **tpbisane7@gmail.com**
 - 📄 Know about my experiences: **[Coming Soon ...](#)**
 
